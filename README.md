@@ -64,7 +64,7 @@ Import the package on your project file. First of all you need to declare a glob
  */
 
 // CommonJS Module
-const AsyncStorageAdapter = require("../lib");
+const AsyncStorageAdapter = require("async-storage-adapter");
 
 const { getData } = new AsyncStorageAdapter("@MyAppName");
 
@@ -90,7 +90,7 @@ Following the list of all avaiable functions. All functions return a `<Promise>`
 | storeData          | `key<String>`, `value<Object>` | Store single `{ key: value }` object.                                           | `success<Boolean>` |
 | storeMultipleData  | `datas<Object<Any>>`           | Take an object with multiple `{ key: value }` pairing to save in async storage. | `success<Boolean>` |
 
-## Examples
+## Examples Usage
 
 Following an example with all functions using `ES6 Module` syntax:
 
