@@ -1,7 +1,7 @@
 {
   "name": "async-storage-adapter",
   "description": "Utility wrapper builded on top of @react-native-async-storage/async-storage to interact with AsyncStorage in React Native projects.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "keywords": [
     "react-native",
