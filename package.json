@@ -1,7 +1,12 @@
 {
   "name": "async-storage-adapter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
+  "keywords": [
+    "react native",
+    "async storage",
+    "adapter"
+  ],
   "repository": "https://github.com/alexdant91/async-storage-adapter",
   "author": "Alessandro D'Antoni",
   "license": "MIT",
