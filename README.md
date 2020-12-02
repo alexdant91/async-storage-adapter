@@ -40,6 +40,18 @@ or
 yarn add async-storage-adapter
 ```
 
+Then link the package on React Native 0.60+:
+
+```cmd
+npx pod-install
+```
+
+Instead on React Native <= 0.59:
+
+```cmd
+react-native link @react-native-async-storage/async-storage
+```
+
 The only one dependency that will be installed is `@react-native-async-storage/async-storage`.
 
 ## Get Started
