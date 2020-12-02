@@ -4,8 +4,13 @@
   "version": "1.0.3",
   "main": "index.js",
   "keywords": [
+    "react-native",
     "react native",
+    "async-storage",
     "async storage",
+    "asyncstorage",
+    "async",
+    "storage",
     "adapter"
   ],
   "repository": "https://github.com/alexdant91/async-storage-adapter",
